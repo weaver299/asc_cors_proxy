@@ -1,0 +1,8 @@
+name: ASC CORS Proxy
+description: 'Proxies javascript XHR requests'
+core: 8.x
+type: module
+package: ASC Tech
+
+# libraries:
+#   - 'book_settings_changes/global-styling'
